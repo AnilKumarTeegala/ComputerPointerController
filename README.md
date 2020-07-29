@@ -1,6 +1,6 @@
 # Computer Pointer Controller
 
-In this project, I used the gaze detection model to control the mouse pointer of my computer. I've used the **`[Gaze Estimation](https://docs.openvinotoolkit.org/latest/_models_intel_gaze_estimation_adas_0002_description_gaze_estimation_adas_0002.html)`** model to estimate the gaze of the my eyes and changed the mouse pointer position accordingly. In this project I have demonstrated the ability to run multiple models in the same machine and coordinate the flow of data between those models.
+In this project, I used the gaze detection model to control the mouse pointer of my computer. I've used the **[Gaze Estimation](https://docs.openvinotoolkit.org/latest/_models_intel_gaze_estimation_adas_0002_description_gaze_estimation_adas_0002.html)** model to estimate the gaze of the my eyes and changed the mouse pointer position accordingly. In this project I have demonstrated the ability to run multiple models in the same machine and coordinate the flow of data between those models.
 
 ## How it works
 
