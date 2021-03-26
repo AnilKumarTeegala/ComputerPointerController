@@ -4,7 +4,7 @@ ipython==7.10.2
 numpy==1.17.4
 opencv-python==4.3.0.36
 pyautogui==0.9.50
-PyYAML==5.3.1
+PyYAML==5.4
 Pillow==7.2.0
 requests==2.22.0
 virtualenv==16.7.9
