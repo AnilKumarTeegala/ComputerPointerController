@@ -1,7 +1,12 @@
 image==1.5.27
 ipdb==0.12.3
+
+
+numpy==1.22.0
+
 ipython==8.10.0
 numpy==1.21.0
+
 opencv-python==4.3.0.36
 pyautogui==0.9.50
 PyYAML==5.4
